@@ -1,0 +1,23 @@
+{
+  "name": "cypressdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmeshpatel7120/cypressdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dharmeshpatel7120/cypressdemo/issues"
+  },
+  "homepage": "https://github.com/dharmeshpatel7120/cypressdemo#readme",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  }
+}
